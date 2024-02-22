@@ -14,7 +14,7 @@ This repository contains implementations and detailed PDF reports (in Polish) of
 3. [Y-Monotonic Triangulation](lab03)
 4. [Line Segment Intersection](lab04)
 
-## Conclusions
+## Reports
 
 Each lab concludes with a summary of observations and findings derived from the exercises and their implications for understanding geometric algorithms.
 
